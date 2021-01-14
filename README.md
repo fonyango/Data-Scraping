@@ -1,2 +1,2 @@
-# Data-Scraping
-This repo contains notebooks on different ways of data/web scrapping. I like exploring new ways of building datasets for projects. 
+# web-scraping
+The easiest and fastest way to do web scraping
