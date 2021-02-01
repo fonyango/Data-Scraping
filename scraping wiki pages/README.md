@@ -1,2 +1,2 @@
-# web-scraping
-The easiest and fastest way to do web scraping
+### scraping wiki pages
+This notebooks gives  step by step way of easily scraping wiki tables and saving them as csv files.
